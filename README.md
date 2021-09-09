@@ -15,3 +15,8 @@ A portfolio of professional academic projects I completed during my time as an u
    This group data science projected was completed for PSTAT 100 under the supervision of Professor Trevor Ruiz at UCSB. We utilized advanced Python libraries to            
    understand how a country’s demographic statistics impact the total number of vaccinations per hundred people. We utilized Python to perform Principal Component 
    Analysis, Regression Analysis, various visual explorations to discern relationships among various country’s socioeconomic factors and vaccination rates. 
+   
+ 3) Description of Classification of the 2016 General Election Project: 
+    This group project was completed for PSTAT 131 under the supervision of Professor Trevor Ruiz. My group analyzed how demographic variables at the county level 
+    played into the winner of each county race in the U.S. 2016 Election using advanced libraries in R. Moreover, we conducted statistical analysis through 
+    visualizations, regression model fitting, and other analysis techniques such as Principal Component Analysis and Quadratic Discriminant Analysis. 
