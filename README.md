@@ -14,4 +14,4 @@ A portfolio of professional academic projects I completed during my time as an u
 2) Description of Impact of Demographic Characteristics of a Country on COVID Vaccine Distribution and Manufacturer Prevalence Project: 
    This group data science projected was completed for PSTAT 100 under the supervision of Professor Trevor Ruiz at UCSB. We utilized advanced Python libraries to            
    understand how a country’s demographic statistics impact the total number of vaccinations per hundred people. We utilized Python to perform Principal Component 
-   Analysis, Regression Analysis, various visual explorations to discern relationships among various country’s socioeconomic factors and vaccination rates
+   Analysis, Regression Analysis, various visual explorations to discern relationships among various country’s socioeconomic factors and vaccination rates. 
